@@ -1,8 +1,7 @@
 # Привет, я Sui 👋
 
-Пишу приложения на Flutter и инструменты на Python.
+Пишу инструменты на Python.
 
 ### Проекты
 
-- **FinPro** — приложение для учёта личных финансов с аналитикой, работает офлайн (Flutter).
-- **Steam Farm Manager** — локальная панель для управления аккаунтами Steam (Python).
+- **[Steam Farm Manager](https://github.com/Sui-ba/steam-farm-manager)** — локальная панель для управления аккаунтами Steam (Python).
